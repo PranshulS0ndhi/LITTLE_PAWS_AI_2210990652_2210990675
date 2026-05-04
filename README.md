@@ -4,14 +4,14 @@ LilPaws is a modern, AI-powered pet adoption ecosystem designed to streamline th
 
 ## 👨‍💻 Team Details
 
--Piyush Kumar sharma 2210990652
--Pratham Paul singh  2210990675
+- Piyush Kumar sharma 2210990652
+- Pratham Paul singh  2210990675
 
 ## 📄 Project Information
 
--Project Title: Little Paws – Pet Adoption & E-commerce Platform
--Project Type: Literary Work (Software / Source Code)
--Copyright Status: Applied (Waiting for Approval, Attached relevant documents)
+- Project Title: Little Paws – Pet Adoption & E-commerce Platform
+- Project Type: Literary Work (Software / Source Code)
+- Copyright Status: Applied (Waiting for Approval, Attached relevant documents)
 
 ## 🌟 Key Features
 
